@@ -1,0 +1,3 @@
+# Dependencies for the Autonomous Operations Agent (Host)
+openai>=1.0.0
+httpx>=0.25.0
