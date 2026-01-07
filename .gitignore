@@ -9,14 +9,6 @@ dist/
 .pnp/
 .pnp.js
 
-# backups (never commit)
-web_backup/
-web/**/web_backup/
-
-# next/node
-node_modules/
-.next/
-
 # Python
 __pycache__/
 *.py[cod]
